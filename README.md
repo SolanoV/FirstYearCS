@@ -9,3 +9,6 @@ spaghetti code. As for my future self, look back if you ever feel stuck. Althoug
 not the type to look at the past, this may help with the endeavor you're facing career wise, assuming you're still in the field of CS. 
 If you're just looking back for fun, then do so. 
 
+
+![Pepe Crying :P](pepecrying.jpg)
+
